@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Backend engineer who ships distributed systems that stay up. Three years at TCS (Kolkata → Hyderabad) owning Spring Boot microservices on AWS - now building the next chapter.
+  Backend engineer who ships distributed systems that stay up. Three years at TCS owning Spring Boot microservices on AWS - now building the next chapter.
 </p>
 
 <p align="center">
@@ -52,17 +52,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,aws,kafka,redis,postgres,mysql,mongodb,docker,kubernetes,terraform&theme=dark" alt="Java, Spring, AWS, Kafka, Redis, PostgreSQL, MySQL, MongoDB, Docker, Kubernetes, Terraform" />
 </p>
-
-<p align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
-</p>
-
-### Featured
-
-| Project | What it is | Links |
-| --- | --- | --- |
-| **ShopVerse** | Distributed e-commerce platform - order/payment workflows with SOLID design, RBAC state machines, JWT refresh rotation, Redis sessions | [Live](https://shop-verse-six.vercel.app) |
-| **AI Recipe Generation** | Computer-vision pipeline (InceptionV3 + Xception CNNs with an LSTM decoder) turning food photos into recipes - 87% top-5 on a Food-101 subset | [Repo](https://github.com/Nikhil-sai-nambula) |
 
 <p align="center">
   <img src="assets/divider.svg" alt="" width="100%" />
