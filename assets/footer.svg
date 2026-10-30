@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64" role="img" aria-label="Code was temporary. The lessons, laughter, and friendships are permanent.">
+  <defs>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      #fc { animation: fw 7s steps(69) forwards; width: 0; }
+      @keyframes fw { 0%, 6% { width: 0; } 78%, 100% { width: 690px; } }
+      #fq { opacity: 0; animation: fqshow 7s forwards; }
+      @keyframes fqshow { 0%, 5% { opacity: 0; } 6%, 100% { opacity: 1; } }
+      #fcur { opacity: 0; animation: fcshow 7s forwards, fblink 1.1s steps(2, jump-none) 7s infinite; }
+      @keyframes fcshow { 0%, 76% { opacity: 0; } 78%, 100% { opacity: 1; } }
+      @keyframes fblink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    </style>
+    <clipPath id="fclip"><rect id="fc" x="105" y="18" height="28" /></clipPath>
+  </defs>
+  <g id="fq" class="mono" font-size="15.5">
+    <text x="105" y="39" fill="#71717a" clip-path="url(#fclip)">// Code was temporary. The lessons, laughter, and friendships are permanent.</text>
+  </g>
+  <rect id="fcur" x="799" y="23" width="9" height="18" fill="#34d399" />
+</svg>
