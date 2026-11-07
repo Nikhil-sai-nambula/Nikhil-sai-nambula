@@ -17,7 +17,7 @@
       <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="2 0" dur="7s" begin="4s" repeatCount="indefinite" />
     </linearGradient>
     <clipPath id="t1clip"><rect x="48" y="38" height="26" width="88">
-      <animate attributeName="width" values="0;11;22;33;44;55;66;77;88" keyTimes="0.0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1.0" dur="0.9s" begin="0s" fill="freeze" calcMode="discrete" />
+      <animate attributeName="width" values="0;11;22;33;44;55;66;77;88" keyTimes="0.0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1.0" dur="0.9s" begin="0.05s" fill="freeze" calcMode="discrete" />
     </rect></clipPath>
     <clipPath id="t2clip"><rect x="48" y="182" height="28" width="442">
       <animate attributeName="width" values="0;11;22;33;44;55;66;77;88;99;110;121;132;143;154;165;176;187;198;209;220;231;242;253;264;275;286;297;308;319;330;341;352;363;374;385;396;407;418;429;440;442" keyTimes="0.0;0.0244;0.0488;0.0732;0.0976;0.122;0.1463;0.1707;0.1951;0.2195;0.2439;0.2683;0.2927;0.3171;0.3415;0.3659;0.3902;0.4146;0.439;0.4634;0.4878;0.5122;0.5366;0.561;0.5854;0.6098;0.6341;0.6585;0.6829;0.7073;0.7317;0.7561;0.7805;0.8049;0.8293;0.8537;0.878;0.9024;0.9268;0.9512;0.9756;1.0" dur="2.8s" begin="2.6s" fill="freeze" calcMode="discrete" />
