@@ -31,7 +31,7 @@
   <tr>
     <td align="center" width="220">
       <strong>1020</strong><br/>
-      <sub>LeetCode solved - rank #33,285</sub>
+      <sub>LeetCode solved - rank #33,516</sub>
     </td>
     <td align="center" width="220">
       <strong>3</strong><br/>
