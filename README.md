@@ -16,6 +16,11 @@
 - **Make slow things fast** - rewrote JPA/Hibernate fetch paths to kill N+1 queries (30% API latency drop) and cut DB load 40% with Redis caching
 - **Build for failure** - self-healing SQS dead-letter pipelines, Kafka decoupling, circuit breakers and rate limits as defaults, not afterthoughts
 
+### Currently building
+
+- **[Nerchukora](https://nerchukora.vercel.app)** - a free AI learning app for System Design & DSA: deep-dive lessons, spaced-repetition flashcards and quizzes
+- **[Portfolio](https://nikhil-sai-portfolio.vercel.app)** - production metrics, an interactive architecture lab and a live circuit-breaker demo
+
 <p align="center">
   <img src="assets/divider.svg" alt="" width="100%" />
 </p>
@@ -53,19 +58,11 @@
   <img src="https://skillicons.dev/icons?i=java,spring,aws,kafka,redis,postgres,mysql,mongodb,docker,kubernetes,terraform&theme=dark" alt="Java, Spring, AWS, Kafka, Redis, PostgreSQL, MySQL, MongoDB, Docker, Kubernetes, Terraform" />
 </p>
 
-<p align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
-</p>
-
 ### Live telemetry
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nikhil-sai-nambula&amp;theme=dark&amp;hide_border=true&amp;background=0b0b0f&amp;ring=10b981&amp;fire=34d399&amp;currStreakLabel=34d399&amp;sideLabels=71717a&amp;dates=52525b" alt="GitHub contribution streak" height="170" />
   <img src="https://leetcard.jacoblin.cool/Nikhilsai007?theme=dark&amp;font=source_code_pro&amp;ext=heatmap&amp;border=0&amp;radius=12" alt="LeetCode stats for Nikhilsai007" height="170" />
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
 </p>
 
 <p align="center">
@@ -76,5 +73,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/footer.svg" alt="Code was temporary. The lessons, laughter, and friendships are permanent." width="100%" />
+  <img src="assets/footer.svg" alt="they call him OG" width="100%" />
 </p>
